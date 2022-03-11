@@ -1,4 +1,5 @@
 <template>
+
   <div class="form-wrap">
     <form class="register">
       <p class="login-register">
