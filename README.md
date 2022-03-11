@@ -1,4 +1,4 @@
-# fireblogs
+# fireGLT
 
 ## Project setup
 ```
