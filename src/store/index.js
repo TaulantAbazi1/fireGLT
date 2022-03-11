@@ -7,6 +7,7 @@ import db from "../firebase/firebaseInit";
 Vue.use(Vuex);
 
 export default new Vuex.Store({
+  
   state: {
     blogPosts: [],
     postLoaded: null,
