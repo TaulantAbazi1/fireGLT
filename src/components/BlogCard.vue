@@ -148,7 +148,7 @@ export default {
       }
 
       .arrow {
-        width: 10px;
+        width: 11px;
       }
     }
   }
