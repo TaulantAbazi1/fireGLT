@@ -57,6 +57,7 @@
 </template>
 
 <script>
+
 import menuIcon from "../assets/Icons/bars-regular.svg";
 import userIcon from "../assets/Icons/user-alt-light.svg";
 import adminIcon from "../assets/Icons/user-crown-light.svg";
